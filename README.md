@@ -1,2 +1,2 @@
 # Cisco-CyberOps-Labs
-This is an ongoing repository for my labs in the course Cyberops
+This repository documents my ongoing labs for the Cisco CyberOps course.
