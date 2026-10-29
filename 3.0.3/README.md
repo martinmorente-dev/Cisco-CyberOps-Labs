@@ -10,4 +10,4 @@
 - [A concrete idea about how processes work in Windows]
 - [How this would be used in a real SOC or DFIR case, for example spotting a suspicious process]
 
-[Full write-up (PDF)](writeup.pdf) [Module 3 notes](https://github.com/martinmorente-dev/Cisco-Cyberops)
+📄 [Full write-up (PDF)](writeup.pdf) [Module 3 notes](https://github.com/martinmorente-dev/Cisco-Cyberops)
