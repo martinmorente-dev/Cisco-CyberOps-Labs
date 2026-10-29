@@ -1,4 +1,4 @@
-🌐 [English](README.md) | [Español](README.es.md)|  [Go back](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs/tree/main)
+🌐 [English](README.md) | [Español](README.es.md) | [Go back](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs/tree/main)
 
 # Laboratorio 3.0.3 · Identificar procesos en ejecución
 
