@@ -1,5 +1,5 @@
 # Cisco-CyberOps-Labs
-🌐 [English](README.md) | [Español](README.es.md)
+🌐 [English](README.md) | [Spanish](README.es.md)
 
 Hands-on labs and write-ups from the **Cisco CyberOps Associate** course (Cisco Networking Academy).
 
