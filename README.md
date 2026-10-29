@@ -19,7 +19,7 @@ Each lab has its own folder with a short README and a full **write-up in PDF**, 
 ### Windows operating system
 | Lab | Topic | Skills | Status | Write-up |
 |---|---|---|---|---|
-| [3.0.3](Modulo-3/3.0.3-Identificar-procesos/README.md) | Identifying running processes | Processes, Task Manager, PowerShell | done | [PDF](Modulo-3/3.0.3-Identificar-procesos/writeup.pdf) |
+| [3.0.3](3.0.3/README.md) | Identifying running processes | Processes, Task Manager, PowerShell | done | [PDF](3.0.3/writeup.pdf) |
 
 ###  Linux, networking and monitoring
 More labs coming as I move through the course. ⏳
