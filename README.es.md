@@ -19,7 +19,7 @@ Cada laboratorio tiene su propia carpeta con un README breve y un **write-up com
 ### Sistema operativo Windows
 | Laboratorio | Tema | Habilidades | Estado | Write-up |
 |---|---|---|---|---|
-| [3.0.3](Modulo-3/3.0.3-Identificar-procesos/README.es.md) | Identificar procesos en ejecución | Procesos, Administrador de tareas, PowerShell | Hecho | [PDF](Modulo-3/3.0.3-Identificar-procesos/writeup.pdf) |
+| [3.0.3](3.0.3/README.es.md) | Identificar procesos en ejecución | Procesos, Administrador de tareas, PowerShell | Hecho | [PDF](Modulo-3/3.0.3-Identificar-procesos/writeup.pdf) |
 
 ### Linux, redes y monitorización
 Más laboratorios a medida que avance en el curso. ⏳
