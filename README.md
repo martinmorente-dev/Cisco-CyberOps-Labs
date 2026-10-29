@@ -29,20 +29,5 @@ More labs coming as I move through the course. ⏳
 
 *(I'll add more as I complete new labs.)*
 
-##  Repository structure
-```
-Cisco-CyberOps-Labs/
-├── README.md
-├── README.es.md
-├── Modulo-1/
-│   └── 1.3.4-Visualizar-hackers-sombrero-negro/
-│       ├── README.md
-│       └── writeup.pdf
-└── Modulo-3/
-    └── 3.0.3-Identificar-procesos/
-        ├── README.md
-        └── writeup.pdf
-```
-
 ## ⚠️ Disclaimer
 Personal study write-ups. I don't include the official course material, which belongs to Cisco.
