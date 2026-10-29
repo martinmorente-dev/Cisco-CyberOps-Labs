@@ -16,22 +16,20 @@ Each lab has its own folder with a short README and a full **write-up in PDF**, 
 
 ##  Labs at a glance
 
-Status: ✅ done · 🔄 in progress · ⏳ upcoming
-
 ### Windows operating system
 | Lab | Topic | Skills | Status | Write-up |
 |---|---|---|---|---|
-| [3.0.3](Modulo-3/3.0.3-Identificar-procesos/README.md) | Identifying running processes | Processes, Task Manager, PowerShell | 🔄 | [PDF](Modulo-3/3.0.3-Identificar-procesos/writeup.pdf) |
+| [3.0.3](Modulo-3/3.0.3-Identificar-procesos/README.md) | Identifying running processes | Processes, Task Manager, PowerShell | done | [PDF](Modulo-3/3.0.3-Identificar-procesos/writeup.pdf) |
 
-### 🐧 Linux, networking and monitoring
+###  Linux, networking and monitoring
 More labs coming as I move through the course. ⏳
 
-## 🧰 Skills and tools
+##  Skills and tools
 `Windows` · `PowerShell` · `Process analysis` · `Threat intelligence` · `Incident research`
 
 *(I'll add more as I complete new labs.)*
 
-## 📁 Repository structure
+##  Repository structure
 ```
 Cisco-CyberOps-Labs/
 ├── README.md
